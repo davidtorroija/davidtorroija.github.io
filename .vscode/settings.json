@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "tab.activeBorderTop": "#7700ff",
+        "tab.activeBackground": "#332b3d",
+        "gitDecoration.ignoredResourceForeground": "#ffd30f",
+        "activityBar.background": "#3D214E",
+        "titleBar.activeBackground": "#562E6E",
+        "titleBar.activeForeground": "#FCFBFD"
+    }
+}
