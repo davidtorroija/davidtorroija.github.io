@@ -14,7 +14,7 @@ const ModalOneBlogContent = () => {
 
       <div className="meta open-sans-font">
         <span>
-          <i className="fa fa-user"></i> steve
+          <i className="fa fa-user"></i> David
         </span>
         <span className="date">
           <i className="fa fa-calendar"></i> 9 January 2017

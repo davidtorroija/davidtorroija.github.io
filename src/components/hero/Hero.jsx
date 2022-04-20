@@ -5,9 +5,9 @@ import Index from "../../components/about/index";
 const heroContent = {
   heroImage: "img/hero/dark.jpg",
   heroMobileImage: "img-mobile",
-  heroTitleName: "steve milner",
-  heroDesignation: "web designer",
-  heroDescriptions: `I'm a Tunisian based web designer & front‑end developer focused on
+  heroTitleName: "David Torroija",
+  heroDesignation: "Team leader, Developer",
+  heroDescriptions: `I'm a Ecuadorian based Team leader & front‑end developer focused on
   crafting clean & user‑friendly experiences, I am passionate about
   building excellent software that improves the lives of those
   around me.`,
