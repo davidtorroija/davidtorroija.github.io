@@ -20,7 +20,7 @@ const HomeDark = () => {
   return (
     <div className="yellow">
       <div className="demo-sticker">
-        <a href="/home-light">
+        <a href="#/home-light">
           <i className="fa fa-lightbulb-o" aria-hidden="true"></i>
         </a>
       </div>

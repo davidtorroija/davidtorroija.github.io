@@ -5,13 +5,13 @@ const previewDemo = [
   {
     img: "dark",
     title: "Dark Demo (Professional Portfolio)",
-    routerPath: "/home-dark",
+    routerPath: "#/home-dark",
     delayAnimation: "50",
   },
   {
     img: "light",
     title: "Light Demo (Classic Portfolio)",
-    routerPath: "/home-light",
+    routerPath: "#/home-light",
     delayAnimation: "",
   },
 ];
