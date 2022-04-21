@@ -1,4 +1,4 @@
-# David Torroija Personal Portfolio React Template
+# David Torroija Personal Portfolio 
 
 ## Description
 
