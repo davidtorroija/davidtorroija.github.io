@@ -3,11 +3,11 @@ import Modal from "react-modal";
 import Index from "../../components/about/index";
 
 const heroContent = {
-  heroImage: "img/hero/dark.jpg",
-  heroMobileImage: "img-mobile",
-  heroTitleName: "steve milner",
-  heroDesignation: "web designer",
-  heroDescriptions: `I'm a Tunisian based web designer & front‑end developer focused on
+  heroImage: "https://avatars.githubusercontent.com/u/4412370?u=83a1473a0a024f8844e162e165b2e5eb74df1b99&v=4",
+  heroMobileImage: "https://avatars.githubusercontent.com/u/4412370?u=83a1473a0a024f8844e162e165b2e5eb74df1b99&v=4",
+  heroTitleName: "David Torroija",
+  heroDesignation: "Team leader, Developer",
+  heroDescriptions: `I'm a Ecuadorian based Team leader & front‑end developer focused on
   crafting clean & user‑friendly experiences, I am passionate about
   building excellent software that improves the lives of those
   around me.`,
@@ -34,7 +34,7 @@ const Hero = () => {
         <div className="col-12 col-lg-8 offset-lg-4 home-details  text-center text-lg-start">
           <div>
             <img
-              src={`img/hero/${heroContent.heroMobileImage}.jpg`}
+              src={`${heroContent.heroMobileImage}`}
               className="img-fluid main-img-mobile d-sm-block d-lg-none"
               alt="hero man"
             />
