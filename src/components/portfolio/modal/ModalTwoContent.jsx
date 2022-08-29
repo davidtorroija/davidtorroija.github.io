@@ -34,11 +34,11 @@ const ModalTwoContent = () => {
               <span className="project-label">Preview </span>:{" "}
               <span className="ft-wt-600 uppercase">
                 <a
-                  href="https://videohive.net/"
+                  href="https://www.youtube.com/watch?v=CStgTHbtKx8"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  www.videohive.net
+                  Youtube video
                 </a>
               </span>
             </div>

@@ -9,7 +9,7 @@ const personalInfoContent = [
   { meta: "Address", metaInfo: "Ecuador" },
   { meta: "phone", metaInfo: "+593-996958394" },
   { meta: "Email", metaInfo: "davidtorroija@gmail.com" },
-  { meta: "linkedin", metaInfo: " david torroija" },
+  { meta: "linkedin", metaInfo: " davidtorroija" },
   { meta: "github", metaInfo: " davidtorroija" },
   { meta: "languages", metaInfo: "English, Spanish" },
 ];

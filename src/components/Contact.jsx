@@ -11,6 +11,7 @@ const Contact = () => {
   const onSubmit = (data, e) => {
     e.target.reset();
     console.log("Message submited: " + JSON.stringify(data));
+    alert("please send an email")
   };
 
   return (

@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Modal from "react-modal";
 import Index from "../../components/about/index";
+import Social from "../../components/Social";
 
 const heroContent = {
   heroImage: "https://avatars.githubusercontent.com/u/4412370?u=83a1473a0a024f8844e162e165b2e5eb74df1b99&v=4",
@@ -45,6 +46,8 @@ const Hero = () => {
               <span className="button-text">{heroContent.heroBtn}</span>
               <span className="button-icon fa fa-arrow-right"></span>
             </button>
+            <div className="contact"><Social /></div>
+            
           </div>
         </div>
       </div>

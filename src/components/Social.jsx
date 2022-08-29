@@ -1,14 +1,16 @@
 import React from "react";
 
 const SocialShare = [
-  {
-    iconName: "fa fa-facebook",
-    link: "https://www.facebook.com/davidtorroija",
-  },
-  { iconName: "fa fa-twitter", link: "https://twitter.com/DavidTorroija" },
+  // {
+  //   iconName: "fa fa-facebook",
+  //   link: "https://www.facebook.com/davidtorroija",
+  // },
+  { iconName: "fa fa-linkedin", link: "https://linkedin.com/in/davidtorroija" },
+
+  { iconName: "fa fa-stack-overflow", link: "https://stackoverflow.com/users/1549677/david-torroija" },
   {
     iconName: "fa fa-youtube",
-    link: "https://www.youtube.com/",
+    link: "https://www.youtube.com/watch?v=CStgTHbtKx8",
   },
   { iconName: "fa fa-github", link: "https://github.com/davidtorroija" },
 ];
